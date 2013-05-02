@@ -12,7 +12,7 @@ GOTO :eof
 
 :setvars
 CALL :vs
-SET name=IronAHK
+SET name=Keyboardist
 SET config=Release
 SET outpre=bin
 SET sitedocs=%name%\Site\docs\commands

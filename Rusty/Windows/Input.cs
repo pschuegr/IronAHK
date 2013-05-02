@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class WindowsAPI
     {

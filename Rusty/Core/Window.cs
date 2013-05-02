@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 using System.Drawing;
-using IronAHK.Rusty.Common;
+using Rusty.Common;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 using System.Windows.Forms;
 using System.Collections.Generic;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     partial class Window
     {

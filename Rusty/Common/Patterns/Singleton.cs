@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     /// <summary>
     /// generic for singletons

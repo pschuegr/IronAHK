@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     abstract class Drive
     {

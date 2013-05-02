@@ -3,10 +3,10 @@
 using System;
 using System.Runtime.InteropServices;
 using System.Timers;
-using IronAHK.Rusty.Linux.X11.Events;
+using Rusty.Linux.X11.Events;
 
 // X11 Version
-namespace IronAHK.Rusty.Linux
+namespace Rusty.Linux
 {
     partial class LinuxAPI
     {

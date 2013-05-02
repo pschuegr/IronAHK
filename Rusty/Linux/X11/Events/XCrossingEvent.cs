@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Runtime.InteropServices;
 
-namespace IronAHK.Rusty.Linux.X11.Events
+namespace Rusty.Linux.X11.Events
 {
     [StructLayout(LayoutKind.Sequential)]
     internal struct XCrossingEvent

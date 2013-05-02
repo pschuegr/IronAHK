@@ -4,7 +4,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Globalization;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     partial class Keyboard
     {

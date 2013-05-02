@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Security;
 using System.Windows.Forms;
 using Timer = System.Timers.Timer;
-using IronAHK.Rusty.Common;
+using Rusty.Common;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

@@ -8,7 +8,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

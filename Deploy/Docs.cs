@@ -1,9 +1,9 @@
 using System.IO;
 using System.Xml;
 using System.Xml.Xsl;
-using IronAHK.Rusty;
+using Rusty;
 
-namespace IronAHK.Setup
+namespace Keyboardist.Setup
 {
     partial class Program
     {

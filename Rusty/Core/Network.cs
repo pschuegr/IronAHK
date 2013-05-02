@@ -7,7 +7,7 @@ using System.Net;
 using System.Net.Cache;
 using System.Net.Mail;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

@@ -4,7 +4,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

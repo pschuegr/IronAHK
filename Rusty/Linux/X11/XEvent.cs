@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Runtime.InteropServices;
-using IronAHK.Rusty.Linux.X11.Events;
+using Rusty.Linux.X11.Events;
 
-namespace IronAHK.Rusty.Linux.X11
+namespace Rusty.Linux.X11
 {
 
     [StructLayout(LayoutKind.Explicit)]

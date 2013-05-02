@@ -2,11 +2,11 @@ using System;
 using System.CodeDom.Compiler;
 using System.IO;
 using System.Text;
-using IronAHK.Rusty;
+using Rusty;
 using IronAHK.Scripting;
 using NUnit.Framework;
 
-namespace IronAHK.Tests
+namespace Keyboardist.Tests
 {
     [TestFixture, Category("Scripting")]
     public partial class Scripting

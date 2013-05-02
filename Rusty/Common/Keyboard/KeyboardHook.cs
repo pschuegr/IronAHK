@@ -5,7 +5,7 @@ using System.Windows.Forms;
 using System.Threading;
 using System.Diagnostics;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     partial class Keyboard
     {

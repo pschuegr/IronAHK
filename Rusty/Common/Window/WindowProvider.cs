@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using IronAHK.Rusty.Linux;
-using IronAHK.Rusty.Windows;
+using Rusty.Linux;
+using Rusty.Windows;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     partial class Window
     {

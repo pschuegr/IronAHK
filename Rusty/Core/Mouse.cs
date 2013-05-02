@@ -3,9 +3,9 @@ using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
-using IronAHK.Rusty.Common;
+using Rusty.Common;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

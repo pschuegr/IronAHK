@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows.Forms;
 
-namespace IronAHK.Rusty.Windows
+namespace Rusty.Windows
 {
     internal class KeyboardHook : Common.Keyboard.KeyboardHook
     {

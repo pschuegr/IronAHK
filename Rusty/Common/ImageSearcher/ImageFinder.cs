@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Threading;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     /// <summary>
     /// Class which provides common search Methods to find a Color or a subimage in given Image.

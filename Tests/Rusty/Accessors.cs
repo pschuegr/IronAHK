@@ -1,8 +1,8 @@
 using System;
-using IronAHK.Rusty;
+using Rusty;
 using NUnit.Framework;
 
-namespace IronAHK.Tests
+namespace Keyboardist.Tests
 {
     partial class Rusty
     {

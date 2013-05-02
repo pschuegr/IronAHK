@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using ThreadState = System.Threading.ThreadState;
 using Timer = System.Timers.Timer;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

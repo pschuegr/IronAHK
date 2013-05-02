@@ -1,6 +1,6 @@
 using System;
 using System.CodeDom;
-using IronAHK.Rusty;
+using Rusty;
 
 namespace IronAHK.Scripting
 {

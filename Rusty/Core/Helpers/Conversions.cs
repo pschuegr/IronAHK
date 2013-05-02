@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using Microsoft.Win32;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

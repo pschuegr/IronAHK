@@ -2,9 +2,9 @@ using System;
 using System.Diagnostics;
 using System.IO;
 using System.Collections.Generic;
-using IronAHK.Rusty.Common;
+using Rusty.Common;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

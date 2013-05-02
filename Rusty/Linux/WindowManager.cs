@@ -2,10 +2,10 @@ using System;
 using System.Windows.Forms;
 using System.Collections.Generic;
 using System.Drawing;
-using IronAHK.Rusty.Linux.Proxies;
-using IronAHK.Rusty.Common;
+using Rusty.Linux.Proxies;
+using Rusty.Common;
 
-namespace IronAHK.Rusty.Linux
+namespace Rusty.Linux
 {
 
     class WindowManager : Common.Window.WindowManagerBase

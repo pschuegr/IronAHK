@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Text;
 using System.Windows.Forms;
 using System.Drawing;
-using IronAHK.Rusty;
+using Rusty;
 using System.Text.RegularExpressions;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     partial class Window
     {

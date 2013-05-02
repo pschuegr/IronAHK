@@ -1,10 +1,10 @@
 using System;
 using System.Runtime.InteropServices;
 using System.Text;
-using IronAHK.Rusty.Linux.X11.Events;
-using IronAHK.Rusty.Linux.X11.Types;
+using Rusty.Linux.X11.Events;
+using Rusty.Linux.X11.Types;
 
-namespace IronAHK.Rusty.Linux.X11
+namespace Rusty.Linux.X11
 {
         internal delegate int XErrorHandler(IntPtr DisplayHandle, ref XErrorEvent error_event);
 

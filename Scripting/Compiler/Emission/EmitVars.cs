@@ -1,7 +1,7 @@
 using System;
 using System.CodeDom;
 using System.Reflection.Emit;
-using IronAHK.Rusty;
+using Rusty;
 
 namespace IronAHK.Scripting
 {

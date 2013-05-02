@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Reflection;
 using System.Text;
-using IronAHK.Rusty;
+using Rusty;
 
 namespace IronAHK.Scripting
 {

@@ -4,7 +4,7 @@ using System.Text;
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace IronAHK.Rusty.Windows
+namespace Rusty.Windows
 {
     /// <summary>
     /// Implementation for native Windows Drive Operations

@@ -1,7 +1,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     class SplashDialog : Form, IComplexDialoge
     {

@@ -4,10 +4,10 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
 using System.Windows.Forms;
-using IronAHK.Rusty.Linux.X11;
-using IronAHK.Rusty.Linux.X11.Events;
+using Rusty.Linux.X11;
+using Rusty.Linux.X11.Events;
 
-namespace IronAHK.Rusty.Linux
+namespace Rusty.Linux
 {
         internal class KeyboardHook : Common.Keyboard.KeyboardHook
         {

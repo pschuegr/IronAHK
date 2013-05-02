@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Windows.Forms;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     static class GuiInvoker
     {

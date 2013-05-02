@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
-using IronAHK.Rusty.Common;
-using IronAHK.Rusty.Windows;
-using IronAHK.Rusty.Linux;
+using Rusty.Common;
+using Rusty.Windows;
+using Rusty.Linux;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using System;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     partial class Keyboard
     {

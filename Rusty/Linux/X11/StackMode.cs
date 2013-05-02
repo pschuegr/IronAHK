@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace IronAHK.Rusty.Linux.X11
+namespace Rusty.Linux.X11
 {
     internal enum StackMode
     {

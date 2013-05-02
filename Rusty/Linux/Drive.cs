@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 
-namespace IronAHK.Rusty.Linux
+namespace Rusty.Linux
 {
     /// <summary>
     /// Implementation for native Linux Drive Operations

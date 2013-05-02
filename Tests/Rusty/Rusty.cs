@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace IronAHK.Tests
+namespace Keyboardist.Tests
 {
     [TestFixture, Category("Rusty")]
     public partial class Rusty { }

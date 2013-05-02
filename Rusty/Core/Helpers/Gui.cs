@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.Windows.Forms;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

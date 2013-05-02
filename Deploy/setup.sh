@@ -6,7 +6,7 @@ if [ -z "$prefix" ]; then prefix=/usr; fi
 libdir=lib
 bindir=bin
 
-main=IronAHK
+main=Keyboardist
 outdir=$prefix/$libdir/$main
 stub=$prefix/$bindir/$(echo $main | tr "[:upper:]" "[:lower:]")
 

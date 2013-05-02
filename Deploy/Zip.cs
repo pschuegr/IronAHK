@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.IO;
 using Microsoft.Win32;
 
-namespace IronAHK.Setup
+namespace Keyboardist.Setup
 {
     partial class Program
     {

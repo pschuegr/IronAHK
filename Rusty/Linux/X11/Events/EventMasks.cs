@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace IronAHK.Rusty.Linux.X11.Events
+namespace Rusty.Linux.X11.Events
 {
     internal enum EventMasks : long
     {

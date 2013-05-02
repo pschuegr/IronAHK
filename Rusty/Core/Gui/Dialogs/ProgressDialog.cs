@@ -4,7 +4,7 @@ using System.Windows.Forms;
 using System;
 
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     class ProgressDialog : Form, IComplexDialoge
     {

@@ -84,20 +84,6 @@
     </PostBuildEvent>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\IronAHK\IronAHK.csproj">
-      <Project>{66E074FB-EBF4-4A58-8BE6-D4A2D688F5E3}</Project>
-      <Name>IronAHK</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Rusty\Rusty.csproj">
-      <Project>{818030A8-5FFE-4CA1-8248-0940C72EA47A}</Project>
-      <Name>Rusty</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Scripting\Scripting.csproj">
-      <Project>{D7C6B1FD-2247-40A4-8DAB-199F3B8084E0}</Project>
-      <Name>Scripting</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="..\make.bat">
       <Link>make.bat</Link>
     </None>
@@ -120,5 +106,19 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Keyboardist\Keyboardist.csproj">
+      <Project>{fb8328a1-7987-462b-9c65-48ded4349ffa}</Project>
+      <Name>Keyboardist</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Rusty\Rusty.csproj">
+      <Project>{818030a8-5ffe-4ca1-8248-0940c72ea47a}</Project>
+      <Name>Rusty</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Scripting\Scripting.csproj">
+      <Project>{d7c6b1fd-2247-40a4-8dab-199f3b8084e0}</Project>
+      <Name>Scripting</Name>
+    </ProjectReference>
   </ItemGroup>
 </Project>

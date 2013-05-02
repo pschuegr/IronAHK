@@ -1,7 +1,7 @@
 CC=xbuild
 CLI=mono
 
-name=IronAHK
+name=Keyboardist
 config=Release
 
 outdir=bin

@@ -1,9 +1,9 @@
 using System;
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
-using IronAHK.Rusty.Common;
+using Rusty.Common;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

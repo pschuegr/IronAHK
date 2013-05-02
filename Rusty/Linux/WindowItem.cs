@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using IronAHK.Rusty.Linux.Proxies;
+using Rusty.Linux.Proxies;
 using System.Drawing;
-using IronAHK.Rusty.Linux.X11;
-using IronAHK.Rusty.Linux.X11.Types;
-using IronAHK.Rusty.Common;
+using Rusty.Linux.X11;
+using Rusty.Linux.X11.Types;
+using Rusty.Common;
 
-namespace IronAHK.Rusty.Linux
+namespace Rusty.Linux
 {
     class WindowItem : Common.Window.WindowItemBase
     {

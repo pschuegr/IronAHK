@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Rusty")]
-[assembly: AssemblyDescription("IronAHK Core Library")]
+[assembly: AssemblyDescription("Keyboardist Core Library")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("IronAHK")]
+[assembly: AssemblyProduct("Keyboardist")]
 [assembly: AssemblyCopyright("Copyright © 2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

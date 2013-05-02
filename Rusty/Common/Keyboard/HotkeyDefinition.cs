@@ -4,7 +4,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Globalization;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     partial class Keyboard
     {
@@ -48,9 +48,9 @@ namespace IronAHK.Rusty.Common
                 get { return options; }
             }
 
-            public IronAHK.Rusty.Core.GenericFunction Proc { get; set; }
+            public Rusty.Core.GenericFunction Proc { get; set; }
 
-            public IronAHK.Rusty.Core.GenericFunction Precondition
+            public Rusty.Core.GenericFunction Precondition
             {
                 get { return precondition; }
                 set { precondition = value; }

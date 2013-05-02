@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -62,8 +62,8 @@
     <AssemblyOriginatorKeyFile>Tests.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="nunit.framework, Version=2.4.7.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77">
-      <Package>nunit</Package>
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.2.6.2\lib\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="System" />
   </ItemGroup>
@@ -80,16 +80,16 @@
     <Compile Include="Scripting\Scripting.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\IronAHK\IronAHK.csproj">
-      <Project>{66E074FB-EBF4-4A58-8BE6-D4A2D688F5E3}</Project>
-      <Name>IronAHK</Name>
+    <ProjectReference Include="..\Keyboardist\Keyboardist.csproj">
+      <Project>{fb8328a1-7987-462b-9c65-48ded4349ffa}</Project>
+      <Name>Keyboardist</Name>
     </ProjectReference>
     <ProjectReference Include="..\Rusty\Rusty.csproj">
       <Project>{818030A8-5FFE-4CA1-8248-0940C72EA47A}</Project>
       <Name>Rusty</Name>
     </ProjectReference>
     <ProjectReference Include="..\Scripting\Scripting.csproj">
-      <Project>{D7C6B1FD-2247-40A4-8DAB-199F3B8084E0}</Project>
+      <Project>{d7c6b1fd-2247-40a4-8dab-199f3b8084e0}</Project>
       <Name>Scripting</Name>
     </ProjectReference>
   </ItemGroup>
@@ -119,6 +119,7 @@
     <None Include="Code\vanilla-Line Continuation.ahk" />
     <None Include="Code\vanilla-MAIN.ahk" />
     <None Include="Code\vanilla-RegExMatch &amp; RegExReplace.ahk" />
+    <None Include="packages.config" />
     <None Include="Tests.nunit" />
     <None Include="Tests.snk" />
   </ItemGroup>

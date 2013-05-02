@@ -1,8 +1,8 @@
 using System.IO;
-using IronAHK.Rusty;
+using Rusty;
 using IronAHK.Scripting;
 
-namespace IronAHK.Setup
+namespace Keyboardist.Setup
 {
     partial class Program
     {

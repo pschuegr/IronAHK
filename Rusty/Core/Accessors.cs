@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 using System.Security.Principal;
 using System.Threading;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

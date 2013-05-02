@@ -3,7 +3,7 @@ using System.Threading;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace IronAHK.Rusty.Common
+namespace Rusty.Common
 {
     partial class Keyboard
     {

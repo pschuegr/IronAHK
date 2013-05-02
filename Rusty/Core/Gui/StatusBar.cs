@@ -2,7 +2,7 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

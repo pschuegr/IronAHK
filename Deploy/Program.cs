@@ -6,7 +6,7 @@ using System.Reflection;
 
 [assembly: CLSCompliant(true)]
 
-namespace IronAHK.Setup
+namespace Keyboardist.Setup
 {
     static partial class Program
     {
@@ -74,7 +74,7 @@ namespace IronAHK.Setup
 
         static string Version
         {
-            get { return IronAHK.Program.Version.ToString(); }
+            get { return Keyboardist.Program.Version.ToString(); }
         }
 
         static string WorkingDir

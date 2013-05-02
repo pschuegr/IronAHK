@@ -4,7 +4,7 @@ using System.Text;
 using System.Drawing;
 using System.Text.RegularExpressions;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

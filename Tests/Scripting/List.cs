@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace IronAHK.Tests
+namespace Keyboardist.Tests
 {
     partial class Scripting
     {

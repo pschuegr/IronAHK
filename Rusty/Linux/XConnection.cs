@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System.Threading;
-using IronAHK.Rusty.Linux.X11;
-using IronAHK.Rusty.Linux.X11.Events;
+using Rusty.Linux.X11;
+using Rusty.Linux.X11.Events;
 
-namespace IronAHK.Rusty.Linux
+namespace Rusty.Linux
 {
 	internal delegate void XEventHandler(XEvent Event);
 	

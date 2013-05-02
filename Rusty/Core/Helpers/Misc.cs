@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

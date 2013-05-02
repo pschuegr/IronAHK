@@ -1,4 +1,4 @@
-﻿using IronAHK.Rusty;
+﻿using Rusty;
 
 namespace IronAHK.Scripting
 {

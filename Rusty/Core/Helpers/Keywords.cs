@@ -1,5 +1,5 @@
 ﻿
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

@@ -2,7 +2,7 @@ using System;
 using System.Diagnostics;
 using System.Security;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

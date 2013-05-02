@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Runtime.InteropServices;
-using IronAHK.Rusty.Linux.X11;
+using Rusty.Linux.X11;
 
-namespace IronAHK.Rusty.Linux.Proxies
+namespace Rusty.Linux.Proxies
 {
     /// <summary>
     /// Proxy around a X11 xDisplay

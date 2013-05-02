@@ -1,7 +1,7 @@
 using System;
 using System.Security.Cryptography;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {

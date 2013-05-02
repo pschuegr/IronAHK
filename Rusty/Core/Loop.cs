@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace IronAHK.Rusty
+namespace Rusty
 {
     partial class Core
     {
